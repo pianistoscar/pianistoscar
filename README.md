@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ]
 (https://www.instagram.com/pianist_jwoo/
 
-이거 
+이거왜링크가보이지 

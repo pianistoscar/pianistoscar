@@ -13,9 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[
-![instagram Badge](https://img.shields.io/badge/@pianist_jwoo-E4405F?style=flat-square&logo=Instagram&logoColor=white)
-(https://www.instagram.com/pianist_jwoo/)
-]
-
+-->
 
